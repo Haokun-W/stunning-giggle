@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "0a7b664d837bc266",
+    "type": "split",
+    "children": [
+      {
+        "id": "143be3a7aa387822",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f65699da2250a1de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NLP/ChatGPT发展史.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a550fa0f1f5ffdc7",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
+          },
+          {
+            "id": "46d9a8ad0df56e9a",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": ".obsidian/core-plugins.json",
+                "staged": true
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3cbbac8912fd9b7a",
+    "type": "split",
+    "children": [
+      {
+        "id": "d40b0e0de15cdfbf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d7529131d228e19",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d51802491a681cb1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0c346e88c7f0f903",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c904b5c5495a0148",
+    "type": "split",
+    "children": [
+      {
+        "id": "15e1ccbf4854fd1a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "83b162b74ff8b192",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b23d37291dc85d1c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "78037a0f87b53a32",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fd8f893a95de02f1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "723bb3a30e0c705b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "46d9a8ad0df56e9a",
+  "lastOpenFiles": [
+    "杂/Sam Altman的创业手册.md",
+    "杂",
+    "NLP/ChatGPT发展史.md",
+    "论文",
+    "未命名.canvas",
+    "NLP",
+    "2024-06-07.md"
+  ]
+}
