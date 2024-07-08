@@ -4,44 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "143be3a7aa387822",
+        "id": "11782654ec6e01d9",
         "type": "tabs",
         "children": [
           {
-            "id": "f65699da2250a1de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NLP/ChatGPT发展史.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a550fa0f1f5ffdc7",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.3"
-              }
-            }
-          },
-          {
-            "id": "46d9a8ad0df56e9a",
+            "id": "e45521f0ef40a87b",
             "type": "leaf",
             "state": {
               "type": "diff-view",
               "state": {
-                "file": ".obsidian/core-plugins.json",
-                "staged": true
+                "file": ".obsidian/app.json",
+                "staged": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -160,7 +137,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 352.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,11 +149,20 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "46d9a8ad0df56e9a",
+  "active": "e45521f0ef40a87b",
   "lastOpenFiles": [
+    "摄影/cover <什么狗屁人像构图3要素，跟着繁花学构图>.md",
+    "图片/1.png",
+    "图片",
+    "Pasted image 20240708161309.png",
+    "读书/张琦-认知破局.md",
+    "摄影",
     "杂/Sam Altman的创业手册.md",
-    "杂",
     "NLP/ChatGPT发展史.md",
+    "未命名.md",
+    "读书",
+    "运营",
+    "杂",
     "论文",
     "未命名.canvas",
     "NLP",
