@@ -11,10 +11,11 @@
             "id": "e45521f0ef40a87b",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/app.json",
-                "staged": false
+                "file": "杂/Sam Altman的创业手册.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -84,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "杂/Sam Altman的创业手册.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "杂/Sam Altman的创业手册.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "杂/Sam Altman的创业手册.md"
+              }
             }
           },
           {
@@ -151,14 +156,14 @@
   },
   "active": "e45521f0ef40a87b",
   "lastOpenFiles": [
+    "NLP/ChatGPT发展史.md",
+    "杂/Sam Altman的创业手册.md",
+    "读书/张琦-认知破局.md",
     "摄影/cover <什么狗屁人像构图3要素，跟着繁花学构图>.md",
     "图片/1.png",
     "图片",
     "Pasted image 20240708161309.png",
-    "读书/张琦-认知破局.md",
     "摄影",
-    "杂/Sam Altman的创业手册.md",
-    "NLP/ChatGPT发展史.md",
     "未命名.md",
     "读书",
     "运营",
