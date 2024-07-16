@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "11782654ec6e01d9",
+        "id": "862efb22bd9655e5",
         "type": "tabs",
         "children": [
           {
-            "id": "e45521f0ef40a87b",
+            "id": "b83468c3d5c5e9f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "杂/Sam Altman的创业手册.md",
+                "file": "NLP/GPT/结构化Prompt.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d13f4f258fb8d634",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NLP/GPT/Prompt Chain & Workflow.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "杂/Sam Altman的创业手册.md",
+                "file": "NLP/GPT/Prompt Chain & Workflow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "杂/Sam Altman的创业手册.md",
+                "file": "NLP/GPT/Prompt Chain & Workflow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "杂/Sam Altman的创业手册.md"
+                "file": "NLP/GPT/Prompt Chain & Workflow.md"
               }
             }
           },
@@ -154,13 +167,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e45521f0ef40a87b",
+  "active": "d13f4f258fb8d634",
   "lastOpenFiles": [
-    "NLP/ChatGPT发展史.md",
+    "NLP/GPT/结构化Prompt.md",
+    "NLP/GPT/Prompt Chain & Workflow.md",
+    "NLP/GPT/ChatGPT发展史.md",
     "杂/Sam Altman的创业手册.md",
-    "读书/张琦-认知破局.md",
+    "NLP/GPT/RAG.md",
+    "NLP/GPT",
     "摄影/cover <什么狗屁人像构图3要素，跟着繁花学构图>.md",
     "图片/1.png",
+    "读书/张琦-认知破局.md",
     "图片",
     "Pasted image 20240708161309.png",
     "摄影",
