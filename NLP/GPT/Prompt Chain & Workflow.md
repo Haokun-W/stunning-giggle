@@ -1,3 +1,7 @@
+---
+dg-publish: true
+dg-home: true
+---
 # workflow
 复杂的任务，但单一prompt可解时，采用workflow
 

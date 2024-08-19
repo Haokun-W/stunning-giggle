@@ -1,3 +1,8 @@
+---
+
+dg-publish: true
+
+---
 原文连接：https://playbook.samaltman.com/
 
 1. 目标: 作出用户们喜欢的产品，再逐步扩大用户群

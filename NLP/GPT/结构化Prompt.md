@@ -1,3 +1,8 @@
+---
+
+dg-publish: true
+
+---
 # 结构化prompt
 https://github.com/langgptai/LangGPT
 
